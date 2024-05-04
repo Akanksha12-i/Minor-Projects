@@ -1,3 +1,3 @@
 My all minor projects are placed in this respository.
 <br>
-Author - (Akanksha Sinha)
+<h1>1. TicTacToe Game</h1>
